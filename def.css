@@ -1,0 +1,144 @@
+body{
+    background-image: url(pll.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+}
+.abc{
+background-color: rgb(148, 148, 148);
+height: 670px;
+width: 360px;
+padding: 20px;
+border-radius: 20px;
+position: relative;
+margin: 20px;
+display: flux;
+}
+
+.def img{
+    width: 100px;
+    height: 100px;
+    border-radius: 8px;
+    margin-top: 25px;
+    margin-left: 9px;
+
+}
+.def h1{
+    position: absolute;
+    left: 150px;
+    top: 30px;
+   
+}
+.def h2{
+    position: absolute;
+    
+    left:149px;
+    top:95px;
+    font-size: 15px;
+}
+.ghi{
+    width: 95%;
+    border-bottom: 3px solid black;
+    margin-left :15px;
+    margin-top: 7px;
+}
+.jkl {
+padding: 8px;
+}
+
+.zeroo{
+    position:absolute ;
+    top: 186px;
+    left: 58px;
+}
+.zerot{
+    position:absolute;
+    top: 208px;
+    left: 360px;
+}
+
+.two{
+    position:absolute ;
+    top: 225px;
+    left: 58px;
+}
+.three{
+    position: absolute;
+    top:250px;
+    left: 360px;
+}
+.five{
+    position:absolute ;
+    top: 267px;
+    left: 58px;
+}
+.six{
+    position: absolute;
+    top:289px;
+    left: 360px;
+}
+.eight{
+    position:absolute ;
+    top: 308px;
+    left: 58px;
+}
+.nine{
+    position: absolute;
+    top:330px;
+    left: 360px;
+}
+.eleven{
+    position:absolute ;
+    top: 349px;
+    left: 58px;
+}
+.twele{
+    position: absolute;
+    top:371px;
+    left: 360px;
+}
+.fteen{
+    position: absolute;
+    top:410px;
+    left: 58px;
+}
+.fifteen{
+    position: absolute;
+    top:433px;
+    left: 360px;
+}
+.seventeen{
+    position: absolute;
+    top:451px;
+    left: 58px;
+}
+.eighteen{
+    position: absolute;
+    top:479px;
+    left: 360px;
+}
+.nineteen{
+    position: absolute;
+    top:647px;
+    left:30px;
+}
+.twenty{
+    position: absolute;
+    top:647px;
+    left:130px;
+}
+.twentyo{
+    position: absolute;
+    top:647px;
+    left:230px;
+}
+.twentyt{
+    position: absolute;
+    top:647px;
+    left:330px;
+}
+
+
+
